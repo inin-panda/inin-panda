@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there👋, I'm Yen Yen</h1>
 <h3 align="center">I want to improve AI  skills</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+##Connect with me:
 
-<h2 align="left">Skills</h2>
+
+##Skills:
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
