@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="left">Skills</h2>
+
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -42,6 +43,7 @@ Here are some ideas to get you started:
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
         </a> 
 </p>
+
 <h3 align="left">Frontend Development</h3>
 <p align="left">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -57,11 +59,9 @@ Here are some ideas to get you started:
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
         </a> 
 </p>
+
 <h3>AI/ML</h3>
 <p align="left"> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a> 
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
     </a> 
@@ -81,6 +81,7 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
     </a> 
 </p>
+
 <h3>Database</h3>
 <p align="left">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -90,6 +91,7 @@ Here are some ideas to get you started:
             <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
         </a> 
 </p>
+
 <h3>Devops</h3>
 <p align="left">        
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -99,18 +101,21 @@ Here are some ideas to get you started:
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
         </a> 
 </p>
+
 <h3>Backend as a Service(BaaS)</h3>
 <p align="left"> 
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
         </a> 
 </p>
+
 <h3>Software</h3>
 <p align="left">   
         <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
         </a> 
 </p>
+
 <h3>Other</h3>
 <p align="left">   
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
