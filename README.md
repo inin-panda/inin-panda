@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
   
 
-<h1 align="center">Hi there👋, I'm Yen Yen</h1>
-<h3 align="center">I want to improve AI  skills</h3>
+# Hi there👋, I'm Yen Yen
+I want to improve AI  skills
 
 ## Skills:
 
