@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
 
 # Hi there👋, I'm Yen Yen
-I want to improve AI  skills
+I want to improve AI Engineering/ Data Analysts skills
 
 ## Skills:
 
