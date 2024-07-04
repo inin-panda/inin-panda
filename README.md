@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Science at Industrial University of Ho Chi Minh City
 - 👯 want to improve AI Engineering/ Data Analysts skills
 - ⚡ Fun fact: My web and application programming skills are better than my current AI and data analytics skills😄
-- 
+
 ## Skills:
 
 <h3 align="center">Programming Languages</h3>
