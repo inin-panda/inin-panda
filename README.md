@@ -4,21 +4,23 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: conyenconcon89@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 
   
 
 # Hi there👋, I'm Yen Yen
-I want to improve AI Engineering/ Data Analysts skills
-
+- 🌱 I’m currently learning Computer Science at Industrial University of Ho Chi Minh City
+- 👯 want to improve AI Engineering/ Data Analysts skills
+- ⚡ Fun fact: My web and application programming skills are better than my current AI and data analytics skills😄
+- 
 ## Skills:
 
 <h3 align="center">Programming Languages</h3>
