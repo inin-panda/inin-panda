@@ -72,7 +72,7 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="70" height="70"/> 
     </a> 
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Scikit_learn_logo_small.svg" alt="scikit_learn" width="70" height="70"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="70" height="70"/> 
     </a> 
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="70" height="70"/> 
