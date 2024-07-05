@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - 👯 I want to improve AI Engineering/ Data Analysts skills
 - ⚡ Fun fact: My web and application programming skills are better than my current AI and data analytics skills😄
 
-## Skills:
+## Language and Tool:
 
-<h3 align="center">Programming Languages</h3>
-<p align="center"> 
+<h3   >Programming Languages</h3>
+<p   > 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
         </a> 
@@ -42,8 +42,8 @@ Here are some ideas to get you started:
         </a> 
 </p>
 
-<h3 align="center">Frontend Development</h3>
-<p align="center">
+<h3   >Frontend Development</h3>
+<p   >
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
         </a> 
@@ -53,15 +53,15 @@ Here are some ideas to get you started:
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
         </a>
-<h3 align="center">Mobile App Development</h3>
-<p align="center">
+<h3   >Mobile App Development</h3>
+<p   >
         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
         </a> 
 </p>
 
-<h3 align="center">AI/ML</h3>
-<p align="center"> 
+<h3   >AI/ML</h3>
+<p   > 
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
     </a> 
@@ -82,8 +82,8 @@ Here are some ideas to get you started:
     </a> 
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
+<h3   >Database</h3>
+<p   >
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
         </a> 
@@ -92,8 +92,8 @@ Here are some ideas to get you started:
         </a> 
 </p>
 
-<h3 align="center">Devops</h3>
-<p align="center">        
+<h3   >Devops</h3>
+<p   >        
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
         </a> 
@@ -102,8 +102,8 @@ Here are some ideas to get you started:
         </a> 
 </p>
 
-<h3 align="center">Other</h3>
-<p align="center"> 
+<h3   >Other</h3>
+<p   > 
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
         </a> 
