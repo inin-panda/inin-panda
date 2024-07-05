@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Language and Tool:
 
 <h3   >Programming Languages</h3>
-<h5   > 
+<p  style="font-size:50px" > 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
         </a> 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
         </a> 
-</h5>
+</p>
 
 <h3   >Frontend Development</h3>
 <p   >
