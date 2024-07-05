@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Language and Tool:
 
 <h3   >Programming Languages</h3>
-<p  style="font-size:100px" > 
+<p  style="font-size:1000px" > 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
         </a> 
