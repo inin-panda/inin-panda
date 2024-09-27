@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Language and Tool:
 
-<h3   >Programming Languages</h3>
+<h3   >Languages and Tools</h3>
 <p  style="font-size:1000px" > 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> 
@@ -40,10 +40,6 @@ Here are some ideas to get you started:
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> 
         </a> 
-</p>
-
-<h3   >Frontend Development</h3>
-<p   >
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html7" width="70" height="70"/> 
         </a> 
@@ -53,15 +49,9 @@ Here are some ideas to get you started:
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/>
         </a>
-<h3   >Mobile App Development</h3>
-<p   >
         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70"/> 
         </a> 
-</p>
-
-<h3   >AI/ML</h3>
-<p   > 
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="70" height="70"/> 
     </a> 
@@ -80,30 +70,18 @@ Here are some ideas to get you started:
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="70" height="70"/> 
     </a> 
-</p>
-
-<h3   >Database</h3>
-<p   >
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> 
         </a> 
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
             <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="70"/> 
-        </a> 
-</p>
-
-<h3   >Devops</h3>
-<p   >        
+        </a>       
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/> 
         </a> 
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> 
         </a> 
-</p>
-
-<h3   >Other</h3>
-<p   > 
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70"/> 
         </a> 
