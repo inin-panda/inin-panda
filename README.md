@@ -82,12 +82,9 @@ Here are some ideas to get you started:
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> 
         </a> 
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70"/> 
-        </a> 
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> 
-        </a> 
+        <a href="https://github.com/ubuntu" target="_blank" rel="noreferrer">
+            <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="70" height="70"/>
+        </a>
 </p>
 
 ## Stats:
