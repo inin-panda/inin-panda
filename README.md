@@ -17,9 +17,9 @@ Here are some ideas to get you started:
   
 
 # Hi there👋, I'm Yen Yen
-- 🌱 I’m currently learning Computer Science at the Industrial University of Ho Chi Minh City
-- 👯 I want to improve my AI/ Data Analyst skills
-- ⚡ Fun fact: My web and application programming skills are better than my current AI and data analytics skills😄
+- 🌱 I’m learning Computer Science at the Industrial University of Ho Chi Minh City
+- 👯 I want to improve my AI skills
+- ⚡ Fun fact: My web and application programming skills are better than my current AI skills😄
 
 ## Language and Tool:
 
