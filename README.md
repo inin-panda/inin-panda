@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-
+```Bash: Example
+pip install -r requirement.txt
+```
 
   
 
