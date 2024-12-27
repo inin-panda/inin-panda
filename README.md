@@ -22,6 +22,7 @@ pip install -r requirement.txt
 - 🌱 I’m learning Computer Science at the Industrial University of Ho Chi Minh City
 - 👯 I want to improve my AI skills and Data Science skills
 - ⚡ Fun fact: My web and application programming skills are better than my current AI skills
+- ✉️ You can shoot me an email at conyenconcon89@gmail.com! I'll try to respond as soon as I can.
 
 ## Language and Tool:
 
